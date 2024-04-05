@@ -50,3 +50,6 @@ Had experience working with **different types of sites and web applications**:
   I have a full understanding of modern **UI** and **UX**. I am constantly **aware of new features** and try to apply them in the context of the task in order to improve analytics and just **the general picture of the product**. Developed designs from scratch for my two portfolio projects ([TODO App](https://to-do-app-lovat-eight.vercel.app/) and [My website](https://benko-cv.vercel.app/)). 
   
   Based on my understanding and experience in design, I can simultaneously **develop a design and write an interface with it**. I often developed a design for responsive (mobile and tablet versions) due to its absence in the editor.
+
+## STATS
+![DimaD10 GitHub stats](https://github-readme-stats.vercel.app/api?username=DimaD10&show_icons=true&theme=github_dark)
