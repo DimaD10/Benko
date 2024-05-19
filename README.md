@@ -13,6 +13,7 @@ I'm a **Front-end Engineer** and **Web Designer**, I create user-oriented web in
  📌 TypeScript
  📌 JQuery
  📌 Webpack
+ 📌 Vite
  📌 Tailwind CSS
  📌 Twig
  📌 Stimulus JS
