@@ -6,7 +6,7 @@ I'm a **Front-end Engineer** and **Web Designer**, I create user-oriented web in
 
 
 ## SKILLS:
- 📌 React JS / Next JS 
+ 📌 React JS / Next.JS 
  📌 HTML (HTML5) 
  📌 CSS/SCSS(CSS3) 
  📌 JavaScript (ES6+) 
